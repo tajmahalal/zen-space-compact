@@ -1,0 +1,11 @@
+{
+  "id": "space-compact",
+  "name": "Space Compact",
+  "description": "Remembers compact mode on/off per space.",
+  "version": "1.0.0",
+  "author": "tajmahalal",
+  "homepage": "https://github.com/tajmahalal/zen-space-compact",
+  "scripts": {
+    "space-compact.uc.mjs": { "include": ["chrome://browser/content/browser.xhtml"] }
+  }
+}
